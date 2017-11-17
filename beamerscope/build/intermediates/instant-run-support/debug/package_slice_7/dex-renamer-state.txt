@@ -1,0 +1,4 @@
+#Thu Oct 19 16:03:50 CEST 2017
+base.0=/Users/Bene/Dropbox/Dokumente/Promotion/PROJECTS/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+file.0=/Users/Bene/Dropbox/Dokumente/Promotion/PROJECTS/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dexMerger/debug/8/classes.dex

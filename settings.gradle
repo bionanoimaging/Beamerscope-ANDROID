@@ -1,0 +1,4 @@
+include ':beamerscope', ':openCVLibrary300', ':TensorFlow-Android-Inference'
+findProject(":TensorFlow-Android-Inference").projectDir =
+        new File("/Users/Bene/tensorflow/tensorflow/contrib/android/cmake")
+

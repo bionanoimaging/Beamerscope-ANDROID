@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Beamerscope.iml" filepath="$PROJECT_DIR$/Beamerscope.iml" />
+      <module fileurl="file://$USER_HOME$/tensorflow/tensorflow/contrib/android/cmake/android-TensorFlow-Android-Inference.iml" filepath="$USER_HOME$/tensorflow/tensorflow/contrib/android/cmake/android-TensorFlow-Android-Inference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beamerscope/beamerscope.iml" filepath="$PROJECT_DIR$/beamerscope/beamerscope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary300/openCVLibrary300.iml" filepath="$PROJECT_DIR$/openCVLibrary300/openCVLibrary300.iml" />
+    </modules>
+  </component>
+</project>

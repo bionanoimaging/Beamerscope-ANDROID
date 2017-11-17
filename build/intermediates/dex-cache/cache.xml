@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/4ecd347fcf27c9501258b85001b64847d9c067cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8182a3c6e924a78ba9c6e28e6efe7ab20ecd15fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/e2cdb35d47b5592e8b6f0079ebd0f5a3adfc8fdb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b01df4fe3649c2729bff5d3353fe4d4acae1532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/dda5e18d377ef981f406f7d3c07e0fd59b15d06a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bde9c33c33af5c9d366828f2e3f937b6be4b52a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/a714112e78008d6dc923a238022f1c073414dea4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45af1e4b81868d0a238116916de31d133cc3874e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/e5ec961dbcd7eb2c522b87d33b59a9e72ce9d7c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8946841ad5f067fce19c524e02518b944892d704">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7a97cba31819e60d20601a3007feade2c6e0089/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/commons-math3-3.6.1_5c4b4fdf87182a7e59b4626a43f7b8c902a7a747/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/a761e542f3f13218e4e66ca7da2b78c711a6caec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ba33f07d4de94ee2b39201aa1230fd165fc56f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4127924d82510c136499f5a9024c33ddaa28b769">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_27e2148adb74164050d49a76c1b807f65ad322fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/src/main/libs/mpandroidchartlibrary-2-1-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f58cc07df07ce418ae9b0336659ee1a69dd21fb3">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/2/mpandroidchartlibrary-2-1-3_b16d4b7e6eded41336175b420d31897c2881988e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/eb01fff5a18377785b20b796149b2ec16d917e51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8782390f90fe6f63c38055d869e806e7085447b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/commons-math3-3.6.1_5c4b4fdf87182a7e59b4626a43f7b8c902a7a747/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/3fa63b244226590563129a0c932a89f576538944/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e006c9b6f0aaed9d8c7934b74039738390fe3468">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cb2465129c11891de4d3314d04a0ca5291305d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/1a0f8943ee6839f062edc42ea15549c0307111bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8c736e2f9dc06e05e5fde7f4e99b50f16e8da48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/src/main/libs/mpandroidchartlibrary-2-1-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f58cc07df07ce418ae9b0336659ee1a69dd21fb3">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/2/mpandroidchartlibrary-2-1-3_b16d4b7e6eded41336175b420d31897c2881988e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/ff2bf5e909e15a1c4b8a4eb97dfda8f5c70d9e58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03c1c1013e90bca19941830a74c508682691a0de">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bebb755a8f929cde919021899d519ea1c991fec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/9ff4ec12a8141e559471505574b1420272bb2e94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5e2cb4573776003d8a41cac7cd7a8bbaf40e79d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/bc33e54c30841860ca0a4e3c000473bafb1ff752/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a8c0b59ef49b12ed999ef857cfde6dc49d4792d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/890aafe945141efa3c27d9ab2519ec4ba234cc84/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0883c461ee051af1bfccf92905d6bec78c4a5d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_2de2298bc5ea8deb585ae49bb29fa790e2384c65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/fcdc42296c4a6e4fbe7993de498b2863e29cab4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="072b7e37f6e7f6ca62b6a0a027dd4cf7bb6ba56e">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fdc521bae1eb475a029dc8c1353c7c0202d194f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/22147526ecef1544aaa766db44e0813a0880c660/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e568d333ca342dd66d14140c72b37450bdc2f4a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/060e9bd89277a2036db14482d472306008a1fc7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_546e4fa08abcbd41bca5d707a8e36095223d3fbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/.android/build-cache/18b439bea493434d99db354c9ae16d2f643d71fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ee31fe16ef66571edf322a2d31a9647ba216f38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Bene/Dropbox/Dokumente/OpticalDesign/Beamerscope/Android/Beamerscope/beamerscope/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ccf2a9f72b25a325f9778d481379bae3f0439538/classes.dex" />
+    </item>
+
+</items>

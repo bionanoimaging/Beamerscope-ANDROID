@@ -1,0 +1,5 @@
+XSym
+0047
+103448a5b4420d500a1398502ca7000f
+/Users/miyoshi/Downloads/tensorflow/eigen.BUILD
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
